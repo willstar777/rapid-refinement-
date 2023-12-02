@@ -1,5 +1,5 @@
 # rapid-refinement-
-rapid neural refinement 
+rapid neural refinement a method for finetunig frontier models
 
 Rapid Synaptic Refinement (RSR) Method:
 Concept:
